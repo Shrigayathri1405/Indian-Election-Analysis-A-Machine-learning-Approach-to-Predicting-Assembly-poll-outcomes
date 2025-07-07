@@ -13,6 +13,7 @@ ML Models:Naive Bayes,K-Nearest Neighbors,Random Forest Classifier,LightGBM,XGBo
 Model Evaluation:Accuracy,Precision,Recall,F1 score,Confusion matric,ROC curve
 ## ML Highlights 
 | Model            | Accuracy 
+
 | **CatBoost**     | 94.8%    
 | **XGBoost**      | 93.5%    
 | **RandomForest** | 94.6%    
@@ -26,8 +27,11 @@ Vote margin and turnout percentage are  strongest predictors of winning
 Certain states show consistent high turnout percentage and margin patterns
 ## Files in the Repository 
 Election_Analysis.ipynb - Notebook with all analysis 
+
 Gender_Data.csv- Names and gender for training
+
 missing_sex_filled.csv - Dataset after model deployment
+
 assembly-elections-data-at-candidate-level.csv-Original raw dataset
 ## Author 
 Built by Shri Gayathri S
